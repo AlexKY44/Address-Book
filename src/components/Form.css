@@ -1,0 +1,16 @@
+.add-form input {
+  display: block;
+  margin: 5px auto;
+  padding: 5px;
+}
+
+.add-form button {
+  margin-top: 10px;
+  padding: 5px 15px;
+}
+
+.error {
+  color: red;
+  font-size: 0.9em;
+  margin-bottom: 5px;
+}
